@@ -5,8 +5,11 @@ Welcome to my Python & Machine Learning Projects Repository! 🚀 This repo is a
 📂 Projects Included
 
 🔹 Python Basics Projects – Simple scripts & problem-solving exercises
+
 🔹 Data Analysis Projects – Using libraries like pandas, numpy, and matplotlib
+
 🔹 Machine Learning Projects – Supervised & Unsupervised ML models with scikit-learn
+
 🔹 Mini Applications – Small automation tools & Python applications
 
 ⚙️ Tech Stack
